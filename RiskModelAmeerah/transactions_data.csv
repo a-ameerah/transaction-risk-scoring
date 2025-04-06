@@ -1,0 +1,5 @@
+account_id,account_type,amount,account_history,time,unusual_location
+1001,High-Value,1000000.00,100,20:30:00,1
+1002,Mid-Range,70000.00,25,14:30:00,0
+1003,Low-Value,1200.00,3,15:30:00,1
+
