@@ -28,4 +28,4 @@ cd transaction-risk-scoring
 pip install -r requirements.txt
 
 ## Usage
-python src/risk_model.py
+python src/riskmodel.py
